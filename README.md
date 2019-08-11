@@ -1,3 +1,7 @@
+Go check it with the link down below:
+https://react-reduxblog.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
